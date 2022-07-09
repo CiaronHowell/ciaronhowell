@@ -8,7 +8,7 @@
 ```
 
 <!-- TODO: Link personal website under my name-->
-### Hi there, I'm Ciaron 👋
+<h3 align="center">Hi there, I'm Ciaron 👋</h3>
 
 ### A bit about me...
 
@@ -18,8 +18,8 @@
 
 ### Connect with me! 🔗
 
-<a href="https://www.linkedin.com/in/ciaron-howell/"><img alt="Ciaron Howell | LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="25px"/></a>
-<a href="https://twitter.com/CiaronHowell_"><img alt="Ciaron Howell | Twitter" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" width="25px"/></a>
+<a href="https://www.linkedin.com/in/ciaron-howell/"><img align="left" alt="Ciaron Howell | LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="25px"/></a>
+<a href="https://twitter.com/CiaronHowell_"><img align="left" alt="Ciaron Howell | Twitter" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" width="25px"/></a>
 
 <!-- IDEA: Auto add blog posts made to either medium or my own website? -->
 
