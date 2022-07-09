@@ -9,7 +9,7 @@
 
 ### Hi there 👋
 
-🧑🏻‍ Currently a Research Software Engineer at STFC - Hartree Cent
+🧑🏻‍💻 Currently a Research Software Engineer at STFC - Hartree Cent
 
 📜 Computer Science with Software Development - University of Liverpool
 
