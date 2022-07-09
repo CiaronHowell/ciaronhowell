@@ -17,7 +17,7 @@
 <!-- TODO: Add my socials here -->
 ### Connect with me! 🔗
 
-<a href="https://www.linkedin.com/in/ciaron-howell/">![LinkedIn](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png | width="21px")</a>
+<a href="https://www.linkedin.com/in/ciaron-howell/"><img alt="Ciaron Howell | LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="21px"</img></a>
 
 
 
