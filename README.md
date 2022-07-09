@@ -10,16 +10,16 @@
 <!-- TODO: Link personal website under my name-->
 ### Hi there, I'm Ciaron 👋
 
+### A bit about me...
+
 🧑🏻‍💻 Research Software Engineer at STFC - Hartree Centre
 
 📜 Computer Science with Software Development - University of Liverpool
 
-<!-- TODO: Add my socials here -->
 ### Connect with me! 🔗
 
-<a href="https://www.linkedin.com/in/ciaron-howell/"><img alt="Ciaron Howell | LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="21px"/></a>
-
-
+<a href="https://www.linkedin.com/in/ciaron-howell/"><img alt="Ciaron Howell | LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="25px"/></a>
+<a href="https://twitter.com/CiaronHowell_"><img alt="Ciaron Howell | Twitter" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" width="25px"/></a>
 
 <!-- IDEA: Auto add blog posts made to either medium or my own website? -->
 
