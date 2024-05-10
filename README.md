@@ -12,7 +12,7 @@
 
 ### A bit about me...
 
-🧑🏻‍💻 Research Software Engineer at STFC - Hartree Centre
+🧑🏻‍💻 Senior Research Software Engineer at STFC - Hartree Centre
 
 📜 Computer Science with Software Development - University of Liverpool
 
